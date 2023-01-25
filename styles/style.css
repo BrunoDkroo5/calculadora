@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter";
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.calculadora {
+  width: 375px;
+  height: 590px;
+  border-radius: 39px;
+  background: linear-gradient(191.34deg, #17181a -4.95%, #17181a 103.74%);
+  display: flex;
+  align-items: flex-end;
+  padding: 36px;
+}
+.calculadora .btns {
+  width: 228px;
+}
+.calculadora .btns button:nth-child(1) {
+  background-color: #616161;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #a5a5a5;
+}
+.calculadora .btns button:nth-child(2) {
+  background-color: #616161;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #a5a5a5;
+}
+.calculadora .btns button:nth-child(3) {
+  background-color: #005DB2;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #339DFF;
+}
+.calculadora .btns button:nth-child(4) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(5) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(6) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(7) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(8) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(9) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(10) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(11) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(12) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(13) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora .btns button:nth-child(14) {
+  background-color: #303136;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #29A8FF;
+}
+.calculadora button {
+  width: 62px;
+  height: 62px;
+  margin: 5px;
+  border: 0;
+  border-radius: 16px;
+}
+.calculadora .btn1 {
+  width: 62px;
+  height: 96px;
+}
+.calculadora .btn2 {
+  width: 139px;
+  height: 62px;
+}
+.calculadora .btn3 {
+  width: 62px;
+  height: 100px;
+}
+
+.btn-right {
+  display: flex;
+  flex-direction: column;
+}
+.btn-right button:nth-child(1) {
+  background-color: #005DB2;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #339DFF;
+}
+.btn-right button:nth-child(2) {
+  background-color: #005DB2;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #339DFF;
+}
+.btn-right button:nth-child(3) {
+  background-color: #005DB2;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #339DFF;
+}
+.btn-right button:nth-child(4) {
+  background-color: #1991FF;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #1991FF;
+}/*# sourceMappingURL=style.css.map */
