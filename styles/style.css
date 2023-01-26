@@ -15,12 +15,13 @@
 
 .calculadora {
   width: 375px;
-  height: 590px;
+  scale: 0.8;
   border-radius: 39px;
   background: linear-gradient(191.34deg, #17181a -4.95%, #17181a 103.74%);
-  display: flex;
-  align-items: flex-end;
   padding: 36px;
+}
+.calculadora .container2 {
+  display: flex;
 }
 .calculadora .btns {
   width: 228px;
@@ -40,88 +41,88 @@
   color: #a5a5a5;
 }
 .calculadora .btns button:nth-child(3) {
-  background-color: #005DB2;
+  background-color: #005db2;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #339DFF;
+  color: #339dff;
 }
 .calculadora .btns button:nth-child(4) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(5) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(6) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(7) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(8) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(9) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(10) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(11) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(12) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(13) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora .btns button:nth-child(14) {
   background-color: #303136;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #29A8FF;
+  color: #29a8ff;
 }
 .calculadora button {
   width: 62px;
@@ -129,6 +130,7 @@
   margin: 5px;
   border: 0;
   border-radius: 16px;
+  cursor: pointer;
 }
 .calculadora .btn1 {
   width: 62px;
@@ -148,30 +150,39 @@
   flex-direction: column;
 }
 .btn-right button:nth-child(1) {
-  background-color: #005DB2;
+  background-color: #005db2;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #339DFF;
+  color: #339dff;
 }
 .btn-right button:nth-child(2) {
-  background-color: #005DB2;
+  background-color: #005db2;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #339DFF;
+  color: #339dff;
 }
 .btn-right button:nth-child(3) {
-  background-color: #005DB2;
+  background-color: #005db2;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #339DFF;
+  color: #339dff;
 }
 .btn-right button:nth-child(4) {
-  background-color: #1991FF;
+  background-color: #1991ff;
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #1991FF;
+  color: #b2daff;
+}
+
+.number {
+  margin-bottom: 40px;
+  text-align: right;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 72px;
+  color: #ffffff;
 }/*# sourceMappingURL=style.css.map */
